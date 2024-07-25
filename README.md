@@ -1,3 +1,6 @@
+<img src="https://github.com/Munya-Marinda/php-submit-form-get-email/blob/main/public/banner.png?raw=true" />
+
+
 # Submit Form Get Email
 
 This project provides a simple PHP script to handle contact form submissions. The script sends an email to the website owner with the submitted form details and a confirmation email to the client who submitted the form. This can be used as a boilerplate for adding contact forms to your website.
